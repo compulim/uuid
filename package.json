@@ -34,7 +34,8 @@
     "./dist/md5.js": "./dist/md5-browser.js",
     "./dist/rng.js": "./dist/rng-browser.js",
     "./dist/sha1.js": "./dist/sha1-browser.js",
-    "./dist/esm-node/index.js": "./dist/esm-browser/index.js"
+    "./dist/esm-node/index.js": "./dist/esm-browser/index.js",
+    "./dist/stringify.js": "./dist/esm-browser/stringify.js"
   },
   "files": [
     "CHANGELOG.md",
